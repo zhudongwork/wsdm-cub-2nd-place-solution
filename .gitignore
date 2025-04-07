@@ -171,6 +171,5 @@ uploads/
 
 *.npy
 
-data/
 
 *.pth
