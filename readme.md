@@ -96,6 +96,7 @@ download data: https://www.kaggle.com/datasets/gmhost/lmsys-chat-1m
 ### get prompt from lmsys-1m
 ```
 python scripts/lmsys_1m.py
+python scripts/create_data_lmsys_1m_clean.py
 ```
 ### Response Pair Generation
 ```
